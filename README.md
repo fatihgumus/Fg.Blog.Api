@@ -11,3 +11,10 @@ Net Core Framework ve ASP.NET Web API ile ilgili ilk çalışmamdır. Araştırm
 # :Daha geniş vaktiniz olsaydı projeye neler eklemek isterdiniz?
 cache yapısı olarak redis kullanabilirdim. Loglamayı daha geniş kapsamlı yapardım.
 ve bir arayüz oluştururdum. DB yapısını daha fazla detaylandırır ve daha düzenli yapardım.
+
+# : Eklemek istediğiniz bir yorumunuz var mı? 
+projenin tamamı postman üzerinden test edilmiştir.
+
+kullanıcı işlemleri:  AuthController
+blog işlemleri:       BlogsController
+yorum işlemleri:      CommetsController
