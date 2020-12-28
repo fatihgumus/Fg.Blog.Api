@@ -1,11 +1,11 @@
 proje .net core web api ile blok sistemi perojesidir.
 
-( - .net core  
-  - asp.net web api
-  - repostory pattern
-  - dependecy injection
-  - authenction
-  - Mchash
+(   
+  - .net core web api
+  - repository pattern
+  - dependency injection
+  - authentication
+  - mcash
 )
 
 kullanıcı işlemleri:  AuthController
